@@ -1,0 +1,18 @@
+C:\Users\carlo\source\repos\veterinaria linces beta 1\bin\Debug\net6.0-windows\veterinaria linces beta 1.exe
+C:\Users\carlo\source\repos\veterinaria linces beta 1\bin\Debug\net6.0-windows\veterinaria linces beta 1.deps.json
+C:\Users\carlo\source\repos\veterinaria linces beta 1\bin\Debug\net6.0-windows\veterinaria linces beta 1.runtimeconfig.json
+C:\Users\carlo\source\repos\veterinaria linces beta 1\bin\Debug\net6.0-windows\veterinaria linces beta 1.dll
+C:\Users\carlo\source\repos\veterinaria linces beta 1\bin\Debug\net6.0-windows\veterinaria linces beta 1.pdb
+C:\Users\carlo\source\repos\veterinaria linces beta 1\obj\Debug\net6.0-windows\veterinaria linces beta 1.csproj.AssemblyReference.cache
+C:\Users\carlo\source\repos\veterinaria linces beta 1\obj\Debug\net6.0-windows\veterinaria_linces_beta_1.Veterinaria_lince.resources
+C:\Users\carlo\source\repos\veterinaria linces beta 1\obj\Debug\net6.0-windows\veterinaria linces beta 1.csproj.GenerateResource.cache
+C:\Users\carlo\source\repos\veterinaria linces beta 1\obj\Debug\net6.0-windows\veterinaria linces beta 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\source\repos\veterinaria linces beta 1\obj\Debug\net6.0-windows\veterinaria linces beta 1.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\veterinaria linces beta 1\obj\Debug\net6.0-windows\veterinaria linces beta 1.AssemblyInfo.cs
+C:\Users\carlo\source\repos\veterinaria linces beta 1\obj\Debug\net6.0-windows\veterinaria linces beta 1.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\veterinaria linces beta 1\obj\Debug\net6.0-windows\veterinaria linces beta 1.dll
+C:\Users\carlo\source\repos\veterinaria linces beta 1\obj\Debug\net6.0-windows\refint\veterinaria linces beta 1.dll
+C:\Users\carlo\source\repos\veterinaria linces beta 1\obj\Debug\net6.0-windows\veterinaria linces beta 1.pdb
+C:\Users\carlo\source\repos\veterinaria linces beta 1\obj\Debug\net6.0-windows\veterinaria linces beta 1.genruntimeconfig.cache
+C:\Users\carlo\source\repos\veterinaria linces beta 1\obj\Debug\net6.0-windows\ref\veterinaria linces beta 1.dll
+C:\Users\carlo\source\repos\veterinaria linces beta 1\obj\Debug\net6.0-windows\veterinaria_linces_beta_1.Properties.Resources.resources
